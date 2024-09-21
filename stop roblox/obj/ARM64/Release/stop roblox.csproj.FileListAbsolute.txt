@@ -1,0 +1,10 @@
+C:\Users\loly\source\repos\stop roblox\stop roblox\bin\ARM64\Release\stop roblox.exe.config
+C:\Users\loly\source\repos\stop roblox\stop roblox\bin\ARM64\Release\stop roblox.exe
+C:\Users\loly\source\repos\stop roblox\stop roblox\bin\ARM64\Release\stop roblox.pdb
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop roblox.csproj.AssemblyReference.cache
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop_roblox.Form1.resources
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop_roblox.Properties.Resources.resources
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop roblox.csproj.GenerateResource.cache
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop roblox.csproj.CoreCompileInputs.cache
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop roblox.exe
+C:\Users\loly\source\repos\stop roblox\stop roblox\obj\ARM64\Release\stop roblox.pdb
